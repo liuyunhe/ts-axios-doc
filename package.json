@@ -4,11 +4,11 @@
   "description": "doc for ts-axios",
   "main": "index.js",
   "directories": {
-    "doc": "docs"
+    "doc": "docsDir"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "dev": "vuepress dev docsDir",
+    "build": "vuepress build docsDir",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
