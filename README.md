@@ -23,3 +23,7 @@ npm run dev
 ```
 
 浏览器打开 `http://localhost:8080/ts-axios/` 即可。
+
+项目预览
+https://liuyunhe.github.io/ts-axios-doc/
+
