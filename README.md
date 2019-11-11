@@ -2,6 +2,8 @@
 
 TypeScript 从零实现 axios 文档教材
 
+项目预览: https://liuyunhe.github.io/ts-axios-doc/
+
 ## 启动电子书
 
 首先 clone 本项目：
@@ -23,9 +25,4 @@ npm run dev
 ```
 
 浏览器打开 `http://localhost:8080/ts-axios/` 即可。
-
-
-
-
-项目预览: https://liuyunhe.github.io/ts-axios-doc/
 
